@@ -7,7 +7,7 @@ Best Streaming Website at The Lowest Cost
 ## Syntax Rules
 java
 javascript
-    ; 마직막에 사용
+    ; 마지막에 사용
     function () 사용
 html
 css
